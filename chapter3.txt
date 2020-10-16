@@ -1,0 +1,1 @@
+Its goals include speed, data integrity, and support for distributed, non-linear workflows.
