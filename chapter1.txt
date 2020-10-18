@@ -1,1 +1,1 @@
-Git is a distributed version-control system for tracking changes in source code during software development.
+This is modification to chapter 1. Git is a distributed version-control system for tracking changes in source code during software development.
